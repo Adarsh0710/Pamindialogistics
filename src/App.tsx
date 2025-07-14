@@ -89,7 +89,7 @@ function App() {
                 LOGISTICS
               </div> */}
               <div className="flex items-center gap-3">
-                <img src="/dist/assets/panindia.jpg" alt="Pan India Logistics" className="h-16 md:h-20 object-contain" />
+                <img src="/panindia.jpg" alt="Pan India Logistics" className="h-16 md:h-20 object-contain" />
               </div>
 
             </div>
