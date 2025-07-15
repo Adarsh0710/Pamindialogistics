@@ -843,8 +843,9 @@ const Footer = () => (
         <div className="md:col-span-2">
           {/* Image Logo */}
           {/* <img src={panIndiaLogo} alt="PanIndia Logistics Logo" className="h-20 mb-6" /> */}
-          <img src="/dist/assets/panindia.jpg" alt="PanIndia Logo" className="h-20 mb-6" />
+{/*           <img src="/dist/assets/panindia.jpg" alt="PanIndia Logo" className="h-20 mb-6" /> */}
 
+           <img src="panindia.jpg" alt="PanIndia Logo" className="h-20 mb-6" />
 
           <p className="text-lg text-gray-300 leading-relaxed mb-6">
             Your trusted partner for reliable, fast and modern transport logistics nationwide.
